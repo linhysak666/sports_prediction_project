@@ -1,0 +1,18 @@
+# Sportovní predikce zápasů
+
+Tento jednoduchý Python projekt náhodně generuje predikce výsledků sportovních zápasů (fotbal + hokej).
+
+## Soubory
+- `data.csv` — ukázková data se zápasy
+- `predikce.py` — skript, který vytváří náhodné tipy
+- `README.md` — popis projektu
+
+## Jak spustit
+1. Ujisti se, že máš nainstalovaný Python 3.
+2. Ulož všechny soubory do jedné složky.
+3. Otevři terminál nebo příkazový řádek v té složce.
+4. Spusť příkaz:
+
+python predikce.py
+
+Skript vypíše náhodné predikce výsledků.
